@@ -1,8 +1,8 @@
--- for pulling from repository (for 1st time)
+-- for pushing to repository (for 1st time)
 git clone https://github.com/laxmikantkulkarni/URBANKART
 git push origin main
 
--- for pulling from repository (2nd time onwards)
+-- for pushing to repository (2nd time onwards)
 git pull origin main
 git push origin main
 
