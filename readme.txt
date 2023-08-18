@@ -1,3 +1,11 @@
+----------------------------------------------------------------------------------------------
+
+git clone https://github.com/laxmikantkulkarni/URBANKART.git
+git add ECommerce/
+git commit -m "Day1 code added"
+git push -u origin main
+
+-----------------------------------------------------------------------------------------------
 -- for pushing to repository (for 1st time)
 git clone https://github.com/laxmikantkulkarni/URBANKART
 git push origin main
